@@ -19,5 +19,5 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![walkthrough2](https://github.com/kristianmurphy/TwitterRemake/tree/main/twitter_ios_starter/Walkthrough.gif)
+![walkthrough2](https://github.com/kristianmurphy/TwitterRemake/blob/main/twitter_ios_starter/Walkthrough.gif)
 
