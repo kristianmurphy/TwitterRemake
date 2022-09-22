@@ -12,12 +12,12 @@ The following **required** functionality is completed:
 - [x] User can log in. (1pt)
 - [x] User can log out. (1pt)
 - [x] User stays logged in across restarts. (1pt)
-- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/gallery/GrHDla7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![walkthrough2](https://github.com/kristianmurphy/TwitterRemake/tree/main/twitter_ios_starter/Walkthrough.gif)
 
