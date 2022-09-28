@@ -20,6 +20,11 @@ Here's a walkthrough of implemented user stories:
 
 ![walkthrough2](https://github.com/kristianmurphy/TwitterRemake/blob/main/twitter_ios_starter/Walkthrough2.gif)
 
+
+
+
+
+
 **Tweeter** is a basic twitter app to read your tweets.
 
 Time spent: 4 hours spent in total
