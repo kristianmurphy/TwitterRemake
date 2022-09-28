@@ -1,6 +1,26 @@
 # Project 3 - Twitter Remake
 
-**Name of your app** is a basic twitter app to read your tweets.
+# Twitter - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent: **6** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [X] User can compose a tweet. (4pts)
+- [X] User can favorite a tweet. (4pts)
+- [X] User can retweet a tweet. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+![walkthrough2](https://github.com/kristianmurphy/TwitterRemake/blob/main/twitter_ios_starter/Walkthrough2.gif)
+
+**Tweeter** is a basic twitter app to read your tweets.
 
 Time spent: 4 hours spent in total
 
@@ -23,5 +43,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![walkthrough2](https://github.com/kristianmurphy/TwitterRemake/blob/main/twitter_ios_starter/Walkthrough.gif)
+![walkthrough](https://github.com/kristianmurphy/TwitterRemake/blob/main/twitter_ios_starter/Walkthrough.gif)
 
